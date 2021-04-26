@@ -60,9 +60,7 @@ The system provides some other awesome features which include instant invoice ca
 </ul>
 
 
-<h2>Credits</h2>
-<li>http://www.fpdf.org/</li>
-<li>https://almsaeedstudio.com/</li>
+
 
 
 <h2>Note</h2>
