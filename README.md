@@ -46,23 +46,7 @@ The system provides some other awesome features which include instant invoice ca
 <li>MYSQL Database</li>
 </ul>
 
-<h2>Setup</h2>
-
-<ul>
-<li>Clone the repository to your system</li>
-<li>Upload the all files to your web hosting via FTP on your online file manager</li>
-<li>Change folder permissions to 0777</li>
-<li>Setup / Create your database, user and password in mysql / phpmyadmin or your hosting control panel</li>
-<li>Import the setup.sql file from the folder to the database</li>
-<li>Open "includes/config.php" and configure the file with database</li>
-<li>Enter the default login details, username: admin - password: admin</li>
-<li>That's it. Enjoy the system for free.</li>
-</ul>
 
 
 
 
-
-<h2>Note</h2>
-This invoice system can be used for any type of invoicing from general in-house invoicing, e-commerce, to product and services invoicing. However, System may contain bugs. Feel free to report. And fork the repository to play and add some more functionality.
- 
