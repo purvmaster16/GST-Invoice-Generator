@@ -5,11 +5,7 @@ Rapid Invoice Management system is a fast cloud based invoicing / billing soluti
 The system provides some other awesome features which include instant invoice calculations for items, quantity, discounts, Taxes / VAT and total without any extra effort. I build this app to play with PHP, MYSQL, JQuery and to implement boostrap admin template functionality to the project.
 
 
-<h2>Screenshots</h2>
 
-<img src="screenshots/login.png" alt="login_page"/>
-<img src="screenshots/products.png" alt="products_page"/>
-<img src="screenshots/create_invoice.png" alt="Create Invoice"/>
 
 
 <h2>Features</h2>
